@@ -1,1 +1,2 @@
 # odin-recipes
+I am putting my HTML knowledge to the test by completing my first TOP prject, Project: Recipes. In this project, I will be making a website consisiting of a main index page which will have a few links to recipes. 
